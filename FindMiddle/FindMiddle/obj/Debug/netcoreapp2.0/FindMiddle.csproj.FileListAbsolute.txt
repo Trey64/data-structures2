@@ -1,0 +1,10 @@
+C:\Users\Tom\source\repos\data-structures2\FindMiddle\FindMiddle\bin\Debug\netcoreapp2.0\FindMiddle.deps.json
+C:\Users\Tom\source\repos\data-structures2\FindMiddle\FindMiddle\bin\Debug\netcoreapp2.0\FindMiddle.runtimeconfig.json
+C:\Users\Tom\source\repos\data-structures2\FindMiddle\FindMiddle\bin\Debug\netcoreapp2.0\FindMiddle.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\data-structures2\FindMiddle\FindMiddle\bin\Debug\netcoreapp2.0\FindMiddle.dll
+C:\Users\Tom\source\repos\data-structures2\FindMiddle\FindMiddle\bin\Debug\netcoreapp2.0\FindMiddle.pdb
+C:\Users\Tom\source\repos\data-structures2\FindMiddle\FindMiddle\obj\Debug\netcoreapp2.0\FindMiddle.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\data-structures2\FindMiddle\FindMiddle\obj\Debug\netcoreapp2.0\FindMiddle.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\data-structures2\FindMiddle\FindMiddle\obj\Debug\netcoreapp2.0\FindMiddle.AssemblyInfo.cs
+C:\Users\Tom\source\repos\data-structures2\FindMiddle\FindMiddle\obj\Debug\netcoreapp2.0\FindMiddle.dll
+C:\Users\Tom\source\repos\data-structures2\FindMiddle\FindMiddle\obj\Debug\netcoreapp2.0\FindMiddle.pdb
