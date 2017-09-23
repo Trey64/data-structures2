@@ -1,0 +1,10 @@
+C:\Users\Tom\source\repos\data-structures2\DeleteNode\DeleteNode\bin\Debug\netcoreapp2.0\DeleteNode.deps.json
+C:\Users\Tom\source\repos\data-structures2\DeleteNode\DeleteNode\bin\Debug\netcoreapp2.0\DeleteNode.runtimeconfig.json
+C:\Users\Tom\source\repos\data-structures2\DeleteNode\DeleteNode\bin\Debug\netcoreapp2.0\DeleteNode.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\data-structures2\DeleteNode\DeleteNode\bin\Debug\netcoreapp2.0\DeleteNode.dll
+C:\Users\Tom\source\repos\data-structures2\DeleteNode\DeleteNode\bin\Debug\netcoreapp2.0\DeleteNode.pdb
+C:\Users\Tom\source\repos\data-structures2\DeleteNode\DeleteNode\obj\Debug\netcoreapp2.0\DeleteNode.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\data-structures2\DeleteNode\DeleteNode\obj\Debug\netcoreapp2.0\DeleteNode.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\data-structures2\DeleteNode\DeleteNode\obj\Debug\netcoreapp2.0\DeleteNode.AssemblyInfo.cs
+C:\Users\Tom\source\repos\data-structures2\DeleteNode\DeleteNode\obj\Debug\netcoreapp2.0\DeleteNode.dll
+C:\Users\Tom\source\repos\data-structures2\DeleteNode\DeleteNode\obj\Debug\netcoreapp2.0\DeleteNode.pdb
