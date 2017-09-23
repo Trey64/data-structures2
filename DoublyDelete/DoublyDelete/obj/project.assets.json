@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tom\\source\\repos\\data-structures2\\DoublyDelete\\DoublyDelete.csproj",
+      "projectUniqueName": "C:\\Users\\Tom\\source\\repos\\data-structures2\\DoublyDelete\\DoublyDelete\\DoublyDelete.csproj",
       "projectName": "DoublyDelete",
-      "projectPath": "C:\\Users\\Tom\\source\\repos\\data-structures2\\DoublyDelete\\DoublyDelete.csproj",
+      "projectPath": "C:\\Users\\Tom\\source\\repos\\data-structures2\\DoublyDelete\\DoublyDelete\\DoublyDelete.csproj",
       "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tom\\source\\repos\\data-structures2\\DoublyDelete\\obj\\",
+      "outputPath": "C:\\Users\\Tom\\source\\repos\\data-structures2\\DoublyDelete\\DoublyDelete\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
