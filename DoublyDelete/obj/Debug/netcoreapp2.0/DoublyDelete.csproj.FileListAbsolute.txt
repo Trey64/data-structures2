@@ -1,0 +1,10 @@
+C:\Users\Tom\source\repos\data-structures2\DoublyDelete\bin\Debug\netcoreapp2.0\DoublyDelete.deps.json
+C:\Users\Tom\source\repos\data-structures2\DoublyDelete\bin\Debug\netcoreapp2.0\DoublyDelete.runtimeconfig.json
+C:\Users\Tom\source\repos\data-structures2\DoublyDelete\bin\Debug\netcoreapp2.0\DoublyDelete.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\data-structures2\DoublyDelete\bin\Debug\netcoreapp2.0\DoublyDelete.dll
+C:\Users\Tom\source\repos\data-structures2\DoublyDelete\bin\Debug\netcoreapp2.0\DoublyDelete.pdb
+C:\Users\Tom\source\repos\data-structures2\DoublyDelete\obj\Debug\netcoreapp2.0\DoublyDelete.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\data-structures2\DoublyDelete\obj\Debug\netcoreapp2.0\DoublyDelete.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\data-structures2\DoublyDelete\obj\Debug\netcoreapp2.0\DoublyDelete.AssemblyInfo.cs
+C:\Users\Tom\source\repos\data-structures2\DoublyDelete\obj\Debug\netcoreapp2.0\DoublyDelete.dll
+C:\Users\Tom\source\repos\data-structures2\DoublyDelete\obj\Debug\netcoreapp2.0\DoublyDelete.pdb
