@@ -1,0 +1,10 @@
+C:\Users\Tom\source\repos\data-structures2\FindNth\FindNth\bin\Debug\netcoreapp2.0\FindNth.deps.json
+C:\Users\Tom\source\repos\data-structures2\FindNth\FindNth\bin\Debug\netcoreapp2.0\FindNth.runtimeconfig.json
+C:\Users\Tom\source\repos\data-structures2\FindNth\FindNth\bin\Debug\netcoreapp2.0\FindNth.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\data-structures2\FindNth\FindNth\bin\Debug\netcoreapp2.0\FindNth.dll
+C:\Users\Tom\source\repos\data-structures2\FindNth\FindNth\bin\Debug\netcoreapp2.0\FindNth.pdb
+C:\Users\Tom\source\repos\data-structures2\FindNth\FindNth\obj\Debug\netcoreapp2.0\FindNth.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\data-structures2\FindNth\FindNth\obj\Debug\netcoreapp2.0\FindNth.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\data-structures2\FindNth\FindNth\obj\Debug\netcoreapp2.0\FindNth.AssemblyInfo.cs
+C:\Users\Tom\source\repos\data-structures2\FindNth\FindNth\obj\Debug\netcoreapp2.0\FindNth.dll
+C:\Users\Tom\source\repos\data-structures2\FindNth\FindNth\obj\Debug\netcoreapp2.0\FindNth.pdb
