@@ -1,1 +1,5 @@
-First I declared a string variable called input that took user input. Then I declared another string called reverse that was an empty string. Then I made a decrementing for loop. Each time the for loop decrements, it adds the last letter of my input string to the reverse string. Then we output the reversed string.
+# DeleteNode
+
+- We check to see if the first node is the one with the data that we want to delete, then we set runner.Next to null.
+- If it isn't the head, we iterate through and set runner to runner.Next.
+- Once we've found the node we want to delete, we set the walker to runner.Next and runner.Next to walker.Next. Then we set walker.Next to null, and it is deleted.
